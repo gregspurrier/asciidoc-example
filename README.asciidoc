@@ -1,9 +1,10 @@
 An Example
 ==========
+:source-highlighter: highlightjs
 
 This is just an example asciidoc readme file to see what it's all about.
 
-[source,ruby]
+[source,ruby,numbered]
 ----
 # This is some Ruby code
 sum = 1 + 2
