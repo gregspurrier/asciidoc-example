@@ -1,0 +1,30 @@
+An Example
+==========
+
+This is just an example asciidoc readme file to see what it's all about.
+
+[source,ruby]
+----
+# This is some Ruby code
+sum = 1 + 2
+puts sum
+----
+
+[source,javascript]
+----
+// And some JavaScript for good measure
+function factorial(x) {
+  if (x == 0) {
+    return 1;
+  } else {
+    return x * factorial(x - 1);
+  }
+}
+----
+
+
+.A Titled List
+- Cool
+- Awesome
+- Fun
+
