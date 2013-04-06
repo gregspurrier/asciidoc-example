@@ -1,6 +1,6 @@
 An Example
 ==========
-:source-highlighter: highlightjs
+:source-highlighter: coderay
 
 This is just an example asciidoc readme file to see what it's all about.
 
